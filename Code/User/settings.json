@@ -1,0 +1,43 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.env.osx": {
+        "PATH": "/c/Users/jan.weiss/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/jan.weiss/bin:/c/Polarion/bundled/svn/bin:/c/Program Files (x86)/Microsoft SDKs/Azure/CLI2/wbin:/c/ProgramData/Oracle/Java/javapath:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Windows/System32/OpenSSH:/c/Program Files/TortoiseSVN/bin:/cmd:/c/Users/jan.weiss/Tools/Python/Anaconda:/c/Users/jan.weiss/Tools/Python/Anaconda/Scripts:/c/Program Files (x86)/Vector CANdb++ 3.1/Exec32:/c/Program Files/nodejs:/c/Program Files/Nordic Semiconductor/nrf-command-line-tools/bin:/c/Program Files/Go/bin:/c/Users/jan.weiss/AppData/Local/Microsoft/WindowsApps:/c/Users/jan.weiss/AppData/Local/atom/bin:/c/Users/jan.weiss/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/jan.weiss/AppData/Roaming/npm:/c/Users/jan.weiss/go/bin:/usr/bin/vendor_perl:/usr/bin/core_perl"
+      },
+    "terminal.integrated.enableBell": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.bracketPairColorization.enabled":true,
+    "background.style": {
+      "content": "''",
+      "pointer-events": "none",
+      "position": "absolute",
+      "right": "0",
+      "bottom": "0",
+      "width": "55%",
+      "height": "55%",
+      "z-index": "9999",
+      "background-size": "contain",
+      "opacity": 0.5,
+      },
+    "background.useDefault": false,
+    "background.customImages": [
+
+          "file:///C:/Users/jan.weiss/Pictures/800_MISC/open_sourcerer_alpha.png"
+    ],
+    "editor.fontLigatures": null,
+    "editor.codeLens": true,
+    "terminal.integrated.defaultProfile.windows": "C:\\Program Files\\Git\\bin\\bash.exe (migrated)",
+    "gitlens.keymap": "alternate",
+    "sync.gist": "cc6f15e6ef47953e806e804dd6eeb0ec",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "window.zoomLevel": -1,
+    "vim.vimrc.enable": true,
+    "vim.vimrc.path": "~/.vimrc",
+    "terminal.integrated.profiles.windows": {
+      "C:\\Program Files\\Git\\bin\\bash.exe (migrated)": {
+        "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+        "args": []
+      }
+    },
+    "workbench.colorTheme": "Monokai Dimmed",
+}

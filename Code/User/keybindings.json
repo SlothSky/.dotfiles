@@ -1,0 +1,54 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+numpad_add",
+        "command": "merge-conflict.next"
+    },
+    {
+        "key": "ctrl+shift+numpad_subtract",
+        "command": "merge-conflict.previous"
+    },
+    {
+        "key": "ctrl+shift+numpad_divide",
+        "command": "merge-conflict.accept.current"
+    },
+    {
+        "key": "ctrl+shift+numpad_multiply",
+        "command": "merge-conflict.accept.incoming"
+    },
+    {
+        "key": "ctrl+shift+numlock",
+        "command": "merge-conflict.accept.all-incoming"
+    },
+    {
+        "key": "ctrl+shift+oem_3",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "ctrl+shift+oem_3",
+        "command": "workbench.action.focusActiveEditorGroup",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "ctrl+shift+oem_1",
+        "command": "workbench.action.terminal.new",
+        "when": "terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+shift+oem_3",
+        "command": "-workbench.action.terminal.new",
+        "when": "terminalProcessSupported"
+    },
+    {
+        "key": "ctrl+oem_3 ctrl+oem_3",
+        "command": "workbench.action.toggleMaximizedPanel"
+    },
+    {
+        "key": "ctrl+k ctrl+k",
+        "command": "workbench.action.toggleZenMode"
+    },
+    {
+        "key": "ctrl+k z",
+        "command": "-workbench.action.toggleZenMode"
+    }
+]
