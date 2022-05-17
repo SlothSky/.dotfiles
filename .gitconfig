@@ -1,0 +1,16 @@
+[alias]
+	st = status
+	ba = branch --all
+	cm = commit -m
+	co = checkout
+	ada = add .
+	lg = log --oneline --graph
+	rs = restore --staged
+[core]
+	editor = vim
+
+[log]
+	date = relative
+
+[format]
+	pretty = format:%h %Cblue%ad%Creset %ae %Cgreen%s%Creset
